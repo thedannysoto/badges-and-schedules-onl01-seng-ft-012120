@@ -18,6 +18,6 @@ def assign_rooms(names)
   return room_array
 end
 
-def printer
+def printer(attendees)
   
 end
